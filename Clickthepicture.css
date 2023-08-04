@@ -1,0 +1,30 @@
+div {
+    background-image: url(https://media.istockphoto.com/id/1394440950/photo/natural-view-cosmos-filed-and-sunset-on-garden-background.webp?b=1&s=170667a&w=0&k=20&c=kaVmrvvzBDZO5HdAoTP6jLNFSqx2ocPx66ySjF_j0OE=);
+    background-repeat: no-repeat;
+    width: 1800px;
+    height: 1000px;
+    background-size: 1700px 1000px;
+   position: fixed;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-right: 350px;
+    /* margin-top: 100px; */
+}
+h1{
+    margin-right: 300px;
+    margin-top: 50px;
+}
+#count{
+    margin-right: 350px;
+}
+#msg{
+    margin-right: 350px;
+}
+button{
+    margin-right: 350px;
+}
+#msg{
+    margin-right: 300px;
+}
